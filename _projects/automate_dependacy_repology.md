@@ -13,9 +13,9 @@ issues:
   - "https://github.com/repology/repology/issues/512"
 markdown: automate_dependency_repology.md
 mentors:
-  - xferra
   - waldyrious
   - yukiisbored
+  - underyx
   - fexpr
 name: "Automation of Dependency Management using Repology"
 requirements:
